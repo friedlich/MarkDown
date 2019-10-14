@@ -32,7 +32,7 @@ ___
 精简表格：
 
   这   |  是   |  表头  
-----   |:---:|----: 
+----:   |:---:|:----: 
  cell1 | adsfasfsfafa | SFafafafeaegfawrg 
  row2  | row2 | row2   
 
