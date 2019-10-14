@@ -52,10 +52,28 @@ lou(自引用):
 
 ## 多级列表
 
+- 问题1：如何打断：空行不行，需要文字段落
+
 1. item 1
   1. item 1.1
   2. item 1.2
 2. item 2
+
+skdfasdf
+
+
+3. item 3
+4. item 4
+
+
+- 问题2：打断的列表，如何续上
+
+1. item 1
+  1. item 1.1
+  2. item 1.2
+2. item 2
+
+	skdf
 
 
 3. item 3
